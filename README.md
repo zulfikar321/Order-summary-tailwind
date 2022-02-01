@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://zulfikar321.github.io/Order-summary-tailwind/
 
 
 
